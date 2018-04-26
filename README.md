@@ -19,6 +19,9 @@ nx cli is a node command line based on Nuxeo's official javascript API wrapper. 
 figure out how to do the file upload with the REST API, but with the nuxeo javascript API I could get
 upload to work.  Most bulk file uploads are done with nxcli.
 
+## [nxid](https://github.com/ucldc/pynux/)
+Command line tool that uses pynux, integrating EZID with Nuxeo. It can be used to mint and add ARK identifiers in Nuxeo, and bind metadata from Nuxeo to EZID.
+
 ## [nuxeo_spreadsheet](https://github.com/ucldc/nuxeo_spreadsheet)
 Bulk metadata import tool based on google sheets.  Requires a python
 environment (conda is recommended for windows)
