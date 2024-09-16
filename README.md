@@ -26,7 +26,7 @@ environment (conda is recommended for windows)
 ## [nuxeo-load](https://github.com/ucldc/nuxeo-load)
 Lots of miscellaneous scripts that use pynux.
 
-## [ucldc-merritt](https://github.com/ucldc/ucldc-merritt)
+## [nuxeo-merritt](https://github.com/ucldc/nuxeo-merritt)
 Generates an atom feed for loading Nuxeo into Merritt for preservation.
 
 ## [checkcheck](https://github.com/ucldc/checkcheck)
